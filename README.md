@@ -1,4 +1,4 @@
 {
-  "version": "453",
-  "url": "https://github.com/dccamara22/PUBLIBOTS.git"
+  "version": "V3",
+  "url": "https://dccamara22.github.io/PUBLIBOTS/firmware.bin"
 }
