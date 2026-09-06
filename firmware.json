@@ -1,9 +1,5 @@
 {
-  "code": 0,
-  "msg": "success",
-  "data": {
-    "version": "2.4.1",
-    "url": "hhttps://githubusercontent.com",
-    "md5": "27166e390b85912c5969d504573d7e0a"
-  }
+  "version": "2.4.2",
+  "url": "https://githubusercontent.com",
+  "md5": "27166e390b85912c5969d504573d7e0a"
 }
