@@ -2,16 +2,11 @@
   "code": 0,
   "msg": "success",
   "version": "2.4.2",
-  "url": "https://githubusercontent.com",
-  "md5": "c1e89084925f6a20b9f7478149fdcc2c",
+  "url": "https://raw.githubusercontent.com/dccamara22/PUBLIBOTS/main/xiaozhi.bin",
+  "md5": "48345e2bd0f29d78296331421fef4b12",
   "data": {
     "version": "2.4.2",
-    "url": "https://githubusercontent.com",
-    "md5": "c1e89084925f6a20b9f7478149fdcc2c",
-    "firmware": {
-      "version": "2.4.2",
-      "url": "https://githubusercontent.com",
-      "md5": "c1e89084925f6a20b9f7478149fdcc2c"
-    }
+    "url": "https://raw.githubusercontent.com/dccamara22/PUBLIBOTS/main/xiaozhi.bin",
+    "md5": "48345e2bd0f29d78296331421fef4b12"
   }
 }
